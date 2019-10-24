@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ui
+  - answer
+  - string
+  - windows
+  - folder
+  - Damy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ResultImage
+  - Answer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Window
+    uniqueID: 1467467335
+    locked: 0
+  - name: Effect
+    uniqueID: 2621077945
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ResultImage
+    uniqueID: 1322500611
+    locked: 0
